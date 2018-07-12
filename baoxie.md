@@ -2,7 +2,9 @@
 
 
 + [褒斜道](baoxie.md)
-  
+    
+    ![褒斜道路线图](/img/baoxieGoogle.jpg)
+    
     + 眉县
     + 斜峪关
     + 鹦鸽街
